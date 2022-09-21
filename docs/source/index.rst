@@ -24,7 +24,7 @@ c) Slides das apresentações do VODAN Africa https://www.vodan-totafrica.info/r
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. nota::
+.. note::
 
    Esta wiki esta em desenvolvimento ativo.
 
