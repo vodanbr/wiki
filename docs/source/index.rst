@@ -35,3 +35,4 @@ Conteúdo
 
    usage
    api
+   projects
