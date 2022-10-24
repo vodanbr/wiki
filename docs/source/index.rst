@@ -23,3 +23,4 @@ Conteúdo
    usage
    api
    projects
+   RelevantInformation
