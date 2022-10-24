@@ -19,9 +19,10 @@ Conteúdo
 --------
 
 .. toctree::
-
+   :caption: Conteúdo
+   
    usage
    api
    RelevantInformation
-   projects
+   projetos
    
