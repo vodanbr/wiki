@@ -1,8 +1,5 @@
-Bem vindo a documentação do **VODAN Brasil**
+ **Informações Relevantes**
 ===================================
-
-Informações Importantes:
-
 Links úteis:
 
 GO FAIR VODAN https://www.go-fair.org/implementation-networks/overview/vodan/
@@ -21,18 +18,3 @@ b) Site: https://www.vodan-totafrica.info/
 c) Slides das apresentações do VODAN Africa https://www.vodan-totafrica.info/repositories/presentation-slides
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   Esta wiki esta em desenvolvimento ativo.
-
-Conteúdo
---------
-
-.. toctree::
-
-   usage
-   api
-   projects
