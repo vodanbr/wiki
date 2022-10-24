@@ -1,7 +1,5 @@
-RelevantInformation
-===================
-
 Informações Relevantes do VODAN
++++++++++++++++++++++++++++++++
 
 Links úteis:
 
