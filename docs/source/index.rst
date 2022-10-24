@@ -25,4 +25,5 @@ Conteúdo
    api
    RelevantInformation
    projetos
+   Equipe
    
