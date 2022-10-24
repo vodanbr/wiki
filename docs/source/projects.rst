@@ -1,7 +1,5 @@
 Projects
-===
+++++++++
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+Vodan Projects
