@@ -21,6 +21,7 @@ Conteúdo
 .. toctree::
    :caption: Conteúdo
    
+   PilotoVODANBR
    usage
    api
    RelevantInformation
