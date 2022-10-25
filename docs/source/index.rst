@@ -23,9 +23,9 @@ Conteúdo
    
    PlataformaVODANBR
    PilotoVODANBR
+   pesquisas
    usage
    api
    RelevantInformation
-   projetos
    Equipe
    
