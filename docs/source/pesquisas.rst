@@ -1,13 +1,9 @@
 Pesquisas
 +++++++++
-
-Pesquisas do Projeto VODAN BR
-
+Pesquisas no Projeto VODAN BR
 
 |Tipo       |Projeto                            |Descrição|
-
-|:---:      |:---:                              |    :---:|
-
+|---|---|---|
 |Dissertação|	Plano de Gestão de Dados Ativos |Elaboração do Plano de Gestão de Dados Ativos para o Projeto VODAN BR|
 |Dissertação|	Coleta de Metadados em processos ETL para gerar Proveniência FAIR|	Elaboração da coleta de metadados de proveniência referentes ao processo de transformação de dados para o formato RDF (ETL4LOD) |
 |Dissertação|	Metadados de proveniência para reuso de dados em Covid-19|	Investigação sobre a percepção dos pesquisadores do campo da saúde quanto aos metadados de proveniência necessários para reuso de dados na pesquisa em Covid-19.|
@@ -20,6 +16,3 @@ Pesquisas do Projeto VODAN BR
 |TCC|	Módulo de Gestão de Pesquisas|	Implementação de módulo do Aplicativo eCRF VODAN, destinado a criar e atualizar formulários para pesquisas. Os formulários publicados podem ser empregados no módulo de Gestão de Formulários para a coleta de dados que, posteriormente, serão transformados em linked data, associados à artefatos semânticos do domínio da pesquisa.|
 |TCC|	ML em dados não estruturados de Prontuários|	Implementação de solução para a extração de informações relevantes dos dados não estruturados de Prontuários Médicos.|
 |TCC|	ML em dados não estruturados de Prontuários|	Análise dos termos adotados em campos não estruturados de Prontuários Médicos e sua correlação com a COVID-19.|
-
-
-
