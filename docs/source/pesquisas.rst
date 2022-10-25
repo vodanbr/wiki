@@ -1,8 +1,8 @@
 Pesquisas
 +++++++++
-Pesquisas no Projeto VODAN BR
 
-.. list-table:: Title
+
+.. list-table:: Dissertações e TCC associados ao Projeto VODAN BR
    :widths: 25 25 50
    :header-rows: 1
 
