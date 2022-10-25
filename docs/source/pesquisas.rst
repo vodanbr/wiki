@@ -1,13 +1,14 @@
 Pesquisas
-++++++++
-
++++++++++
 
 Pesquisas do Projeto VODAN BR
 
 
-|   Tipo    |	Projeto |   Descrição |
-| ---   |   --- |   --- |
-|Dissertação|	Plano de Gestão de Dados Ativos|	Elaboração do Plano de Gestão de Dados Ativos para o Projeto VODAN BR|
+|Tipo       |Projeto                            |Descrição|
+
+|:---:      |:---:                              |    :---:|
+
+|Dissertação|	Plano de Gestão de Dados Ativos |Elaboração do Plano de Gestão de Dados Ativos para o Projeto VODAN BR|
 |Dissertação|	Coleta de Metadados em processos ETL para gerar Proveniência FAIR|	Elaboração da coleta de metadados de proveniência referentes ao processo de transformação de dados para o formato RDF (ETL4LOD) |
 |Dissertação|	Metadados de proveniência para reuso de dados em Covid-19|	Investigação sobre a percepção dos pesquisadores do campo da saúde quanto aos metadados de proveniência necessários para reuso de dados na pesquisa em Covid-19.|
 |Dissertação|	Modelo semântico para coleta de dados em Covid-19| Estudo do modelo semântico para o formulário de coleta de dados sobre COVID: uma revisão de vocabulários.|
@@ -20,23 +21,5 @@ Pesquisas do Projeto VODAN BR
 |TCC|	ML em dados não estruturados de Prontuários|	Implementação de solução para a extração de informações relevantes dos dados não estruturados de Prontuários Médicos.|
 |TCC|	ML em dados não estruturados de Prontuários|	Análise dos termos adotados em campos não estruturados de Prontuários Médicos e sua correlação com a COVID-19.|
 
-.. list-table::
 
- * - Tipo
-    - Projeto
-    - DescriçãO
- * - Dissertação
-    - Plano de Gestão de Dados Ativos
-    - Elaboração do Plano de Gestão de Dados Ativos para o Projeto VODAN BR
- * - Dissertação
-   - Coleta de Metadados em processos ETL para gerar Proveniência FAIR	
-   - Elaboração da coleta de metadados de proveniência referentes ao processo de transformação de dados para o formato RDF (ETL4LOD)
- * - Dissertação
-   - Metadados de proveniência para reuso de dados em Covid-19
-   - Investigação sobre a percepção dos pesquisadores do campo da saúde quanto aos metadados de proveniência necessários para reuso de dados na pesquisa em Covid-19.
- * - Dissertação	
-   - Modelo semântico para coleta de dados em Covid-19
-   - Estudo do modelo semântico para o formulário de coleta de dados sobre COVID: uma revisão de vocabulários.
- * - Dissertação 	
-   - Compartilhamento de dados de pesquisa no contexto da COVID-19
-   - Análise sobre os requisitos dos financiadores de pesquisa em COVID-19 e as práticas e percepções dos pesquisadores quanto ao compartilhamento de dados de pesquisa em COVID-19.
+
