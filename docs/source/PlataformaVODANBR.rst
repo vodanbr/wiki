@@ -1,5 +1,5 @@
 Plataforma VODAN BR
-+++++++++++++++++++
+###################
 
 A Plataforma VODAN BR foi projetada com o objetivo de prover uma infraestrutura escalável, distribuída e genérica que atenda um processo intensivo de coleta de dados com alta heterogeneidade, disponibilizando-os em plataformas que ofereçam dados e metadados interoperáveis e processáveis por agentes de software, que apoiem a descoberta de outros recursos que possam ser associados a eles [7]. 
 
@@ -28,59 +28,30 @@ Os dados e metadados seguem um fluxo da esquerda para direita como apresentado n
 
 Para que a plataforma cumpra com seu papel, mecanismos como os processos de ETL estão sendo implementados. A tabela 3 apresenta um resumo das atividades referentes aos processos e elementos da plataforma VODAN BR.
 
-**(1)	Extração, transformação e carga (ETL) de dados de UH para o banco de apoio do VODAN BR**	
+.. list-table:: Mecanimos para a Plataforma VODAN BR
+   :widths: 40 80
+   :header-rows: 1
 
-●	Desenvolvimento de um processo automatizado para o tratamento dos dados estruturados e não estruturados de pacientes com COVID-19. Essa atividade faz parte de um TCC e encontra-se em andamento.
-
-**(2)	Banco de apoio com dados estruturados**
-
-●	Modelagem de uma base de dados de apoio, para coleta de dados estruturados aderentes ao questionário da OMS. Modelo lógico construído e disponibilizado, usando a ferramenta Visual Paradigma.
-
-●	Elaboração de dicionário de dados referente ao banco de apoio.
-
-●	Criação de script para a base, em MySQL, com a carga inicial das tabelas básicas referentes ao questionário da OMS.
-
-●	Evolução da base de dados inicial para comportar o versionamento de formulários e a gestão de novas pesquisas. Esta atividade faz parte de um TCC e encontra-se em andamento.
-
-**(3)	Aplicativo eCRF**	
-
-●	Módulo para criação de usuários e registro de informações dos pacientes COVID-19, de acordo com o questionário da OMS.
-
-●	Em andamento: Extensão do aplicativo, dotando-o de um módulo para apoio à pesquisa. Esse módulo tem o propósito de permitir a criação e o versionamento de questionários de pesquisas. Essa atividade faz parte de um TCC e encontra-se em andamento. 
-
-●	Em virtude de ajustes no banco para acomodar o novo módulo, o aplicativo será evoluído permitindo ao usuário selecionar a pesquisa que deseje trabalhar.
-
-**(4)	ETL dos dados e metadados triplificados (RDF)**	
-
-●	Implementação do processo de transformação de dados estruturados em (meta)dados FAIR, empregando o modelo semântico COVIDCRFRAPID: Versão 1.0 Prontificada.
-
-●	Desenvolvimento do ETL4LOD+ Extension, agregando ao framework ETL4FAIR plugins para a carga de dados no GraphDB e dos metadados em um FAIR DP.
-
-**(5)	ETL para visualização de dados**
-
-●	Implementação de um processo de transformação de dados do questionário da OMS para um modelo que permita a visualização de informações, a partir dos dados estruturados em formulários de pesquisa. 
-
-**(6)	Triplestore (GraphDB)**
-
-●	Instalação, configuração e gerenciamento da triplestore para os dados de saúde.  
-
-**(7)	Repositório Dataverse**
-
-●	Instalação, configuração e gerenciamento do repositório de dados e metadados de proveniência do VODAN BR. 
-
-**(8)	FAIR DP VODAN BR**
-
-●	Instalação, configuração e gerenciamento do FAIR DP do VODAN BR.
-
-●	Implementação e teste de um FAIR DP para nuvem. 
-
-**(9)	Aplicativo de visualização de informações**
-
-●	Elaboração do modelo de um Datamart para armazenamento dos dados. 
-
-●	Implementação do Datamart.
-
-●	Implementação de Painéis, empregando ferramentas como Power BI, para visualização de informações associadas ao Datamart.
-
-
+   * - Mecanismo
+     - Descrição
+   * - **Extração, transformação e carga (ETL) de dados de UH para o banco de apoio do VODAN BR**	
+     - Desenvolvimento de um processo automatizado para o tratamento dos dados estruturados e não estruturados de pacientes com COVID-19. Essa atividade faz parte de um TCC e encontra-se em andamento.
+   * - **Banco de apoio com dados estruturados**
+     - Modelagem de uma base de dados de apoio, para coleta de dados estruturados aderentes ao questionário da OMS. Modelo lógico construído e disponibilizado, usando a ferramenta Visual Paradigma.
+   * - **Elaboração de dicionário de dados referente ao banco de apoio**
+     - Criação de script para a base, em MySQL, com a carga inicial das tabelas básicas referentes ao questionário da OMS. Evolução da base de dados inicial para comportar o versionamento de formulários e a gestão de novas pesquisas. Esta atividade faz parte de um TCC e encontra-se em andamento.
+   * - **Aplicativo eCRF**	
+     - Módulo para criação de usuários e registro de informações dos pacientes COVID-19, de acordo com o questionário da OMS.
+   * - **ETL dos dados e metadados triplificados (RDF)**	
+     - Implementação do processo de transformação de dados estruturados em (meta)dados FAIR, empregando o modelo semântico COVIDCRFRAPID: Versão 1.0 Prontificada.Desenvolvimento do ETL4LOD+ Extension, agregando ao framework ETL4FAIR plugins para a carga de dados no GraphDB e dos metadados em um FAIR DP.
+   * - **ETL para visualização de dados**
+     - Implementação de um processo de transformação de dados do questionário da OMS para um modelo que permita a visualização de informações, a partir dos dados estruturados em formulários de pesquisa. 
+   * - **Triplestore (GraphDB)**
+     - Instalação, configuração e gerenciamento da triplestore para os dados de saúde.  
+   * - **Repositório Dataverse**
+     - Instalação, configuração e gerenciamento do repositório de dados e metadados de proveniência do VODAN BR. 
+   * - **FAIR DP VODAN BR**
+     - Instalação, configuração e gerenciamento do FAIR DP do VODAN BR. Implementação e teste de um FAIR DP para nuvem. 
+   * - **Aplicativo de visualização de informações**
+     - Elaboração do modelo de um Datamart para armazenamento dos dados. Implementação do Datamart.Implementação de Painéis, empregando ferramentas como Power BI, para visualização de informações associadas ao Datamart.
 
