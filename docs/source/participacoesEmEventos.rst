@@ -69,22 +69,33 @@ Tutoriais, Workshops e Apresentações Promovidos
 #. Evento: Ciclo de Palestras On-Line: Interoperabilidade de dados em tempo de epidemia.
 
 .. image:: images/imagem_Ciclo_Palestras_on_line_2020.png
- Figura 1 – Divulgação Ciclo de Palestras on Line - 2020.
+ 
+Figura 3 – Divulgação Ciclo de Palestras on Line - 2020.
 
 **Palestras do Ciclo:**
-1. Interoperabilidade de dados e redes de repositórios: aplicação no enfrentamento de pandemias virais 
-2. Movimento GO FAIR, princípios FAIR e tecnologias de apoio 
-3. Projeto do banco de dados de apoio ao prontuário de casos COVID-19 da OMS
-4. Projeto de aplicativo para entrada de dados dos casos 
-5. O papel de ontologias na anotação e interligação de dados sobre COVID-19
-6. Processo de Transformação para Dados Interconectados
-7. Rastreabilidade e gestão de proveniência 
-8. GraphDB como BD de triplas RDF no armazenamento e visualização de dados 
-9. Repositórios de Dados e FAIR Data Points 
-10. Solução de BI para exploração dos casos COVID-19  
+
+* 1. Interoperabilidade de dados e redes de repositórios: aplicação no enfrentamento de pandemias virais
+
+* 2. Movimento GO FAIR, princípios FAIR e tecnologias de apoio
+
+* 3. Projeto do banco de dados de apoio ao prontuário de casos COVID-19 da OMS
+
+* 4. Projeto de aplicativo para entrada de dados dos casos 
+
+* 5. O papel de ontologias na anotação e interligação de dados sobre COVID-19
+
+* 6. Processo de Transformação para Dados Interconectados
+
+* 7. Rastreabilidade e gestão de proveniência
+
+* 8. GraphDB como BD de triplas RDF no armazenamento e visualização de dados
+
+* 9. Repositórios de Dados e FAIR Data Points 
+
+* 10. Solução de BI para exploração dos casos COVID-19  
 
 
-.. list-table:: Outros Eventos
+.. list-table:: Outros Eventos:
    :widths: 50 25
    :header-rows: 1
 
