@@ -23,6 +23,7 @@ Conteúdo
    
    PlataformaVODANBR
    PilotoVODANBR
+   pesquisasVinculadas
    pesquisas
    usage
    api
