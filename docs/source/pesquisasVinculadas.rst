@@ -66,7 +66,7 @@ As pesquisas associadas à implementação do piloto do projeto estão descritas
    * - Pesquisa
      - Descrição
    * - Processo de FAIRificação - Workflow	
-	  - Elaboração de workflow de FAIRificação para atender as especificidades do Projeto VODAN BR
+     - Elaboração de workflow de FAIRificação para atender as especificidades do Projeto VODAN BR
    * - Piloto VODAN BR	
      - Implementação do Projeto Piloto para prova de conceito da Plataforma VODAN BR.
    * - Estudo sobre a disponibilização de dados anonimizados de pacientes do HUGG para a pesquisa
@@ -88,10 +88,9 @@ Projetos de Disciplinas da Graduação
 ------------------------------------
 
 #. Para Disciplina de Banco de Dados I
-	Trabalhos de fim de curso. Para o desenvolvimento dos trabalhos, foram estabelecidas propostas de evoluções no esquema do banco de dados de apoio, elaboração de consultas SQL e desenvolvimento de aplicações WEB, implementando funcionalidades relevantes para o projeto como, por exemplo: Gestão de controle de acesso da base de dados de Apoio para Pesquisas Clínicas, Registro das informações de paciente em um módulo do questionário na base de dados de Apoio para Pesquisas Clínicas e Consultas e visualizações sobre os dados armazenados na base de dados de Apoio para Pesquisas Clínicas.
-
+	Trabalho de fim de curso. Para o desenvolvimento dos trabalhos, foram estabelecidas propostas de evoluções no esquema do banco de dados de apoio, elaboração de consultas SQL e desenvolvimento de aplicações WEB, implementando funcionalidades relevantes para o projeto como, por exemplo: Gestão de controle de acesso da base de dados de Apoio para Pesquisas Clínicas, Registro das informações de paciente em um módulo do questionário na base de dados de Apoio para Pesquisas Clínicas e Consultas e visualizações sobre os dados armazenados na base de dados de Apoio para Pesquisas Clínicas.
 
 #. Para Disciplina de Laboratório de Sistemas de Informação II
-   Trabalho de fim de curso, visando:
+  	 Trabalho de fim de curso, visando:
    * a)	Preparar um ambiente no Dataverse com base nos metadados estabelecidos na especificação do FAIR DP, a fim de otimizar o processo de publicação dos dados e metadados do Projeto VODAN BR;
    * b)	Implementar uma solução que acesse o FAIR DP e o Dataverse, via API. A ferramenta deverá realizar pesquisas empregando os metadados disponibilizados no FAIR DP, e buscar, quando demandado, os dataset no repositório de forma mais amigável. Apesar de apresentar uma interface para humanos, o FAIR DP publica informações codificadas que podem dificultar o acesso do usuário. Por trabalhar com termos padronizados, uma aplicação seria capaz de buscar termos em outros artefatos semânticos, inclusive em outros idiomas, auxiliando o processo de busca.
