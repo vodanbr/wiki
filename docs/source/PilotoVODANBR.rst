@@ -1,5 +1,5 @@
 Piloto VODAN BR
-+++++++++++++++
+###############
 	
 O piloto do projeto VODAN BR tem por objetivo aprofundar os conhecimentos em workflows de FAIRificação e na tecnologia do FAIR DP; e analisar e selecionar as ferramentas necessárias para a infraestrutura proposta. O piloto atua em uma plataforma simplificada, empregando datasets sobre pacientes com COVID, disponibilizados pelo repositório COVID-19 DataSharing/BR . Esse repositório é uma iniciativa da FAPESP em cooperação com a Universidade de São Paulo, e, inicialmente, participação do Instituto Fleury, Hospital Sírio-Libanês (HSL) e Hospital Israelita Albert Einstein, com o objetivo de disponibilizar dados relacionadas à COVID-19 que possam contribuir para pesquisas desta temática.
 
