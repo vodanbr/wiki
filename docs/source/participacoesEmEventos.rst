@@ -1,19 +1,19 @@
 Participações em Eventos
-========================
+########################
 
 Posters em Eventos Internacionais
----------------------------------
+*********************************
 
-#. 1 `RDA’s 16th Virtual Plenary Meeting <https://vodanbr.github.io/presentations/2020/11/25/16-RDA-Plenary/>`_
-  Período: 09 a 12 de novembro de 2020.
-  Participação: Poster (melhor poster ).
+#. `RDA’s 16th Virtual Plenary Meeting <https://vodanbr.github.io/presentations/2020/11/25/16-RDA-Plenary/>`_
+   Período: 09 a 12 de novembro de 2020.
+   Participação: Poster (melhor poster ).
 
-#. 2 `International FAIR Convergence Symposium <https://doi.org/10.5281/zenodo.4679001>`_ 
-  Período: 22 a 23 de outubro de 2020.
-  Participação: Poster sobre o Projeto .
+#. `International FAIR Convergence Symposium <https://doi.org/10.5281/zenodo.4679001>`_ 
+   Período: 22 a 23 de outubro de 2020.
+   Participação: Poster sobre o Projeto .
 
 Festivais, Seminários e Conferências
-------------------------------------
+************************************
     A tabela a seguir relaciona os eventos com as respectivas divulgações do projeto.
 
 .. list-table:: Dissertações e TCC associados ao Projeto VODAN BR
@@ -64,7 +64,7 @@ Festivais, Seminários e Conferências
      - Painel Temático: FAIR para Pesquisa em Dados Clínicos da Saúde - Uma aplicação VODAN BR
 
 Tutoriais, Workshops e Apresentações Promovidos
------------------------------------------------
+***********************************************
 
 #. Evento: Ciclo de Palestras On-Line: Interoperabilidade de dados em tempo de epidemia.
 
