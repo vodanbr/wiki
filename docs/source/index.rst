@@ -24,8 +24,7 @@ Conteúdo
    PlataformaVODANBR
    PilotoVODANBR
    pesquisasVinculadas
-   usage
-   api
+   participacoesEmEventos
    RelevantInformation
    Equipe
    
