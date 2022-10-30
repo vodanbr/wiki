@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Projeto VODAN BR'
+copyright = '2022, Graziella'
+author = 'UFRJ-GRECO'
 
 release = '0.1'
 version = '0.1.0'
