@@ -14,7 +14,7 @@ Posters em Eventos Internacionais
 
 Festivais, Seminários e Conferências
 ------------------------------------
-    A tabela a seguir relaciona os eventos de 2020 com as respectivas divulgações do projeto.
+    A tabela a seguir relaciona os eventos com as respectivas divulgações do projeto.
 
 .. list-table:: Dissertações e TCC associados ao Projeto VODAN BR
    :widths: 30 30 60
