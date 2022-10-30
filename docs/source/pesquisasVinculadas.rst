@@ -1,12 +1,12 @@
 Pesquisas Vinculadas ao VODAN BR
-================================
+################################
 
 Para a implementação da plataforma VODAN BR, diferentes frentes de pesquisas foram propostas. Essas pesquisas contam com a participação de alunos da graduação, mestrado e doutorado da UFRJ e UNIRIO, e, quando necessário, com especialistas da área de saúde dos hospitais parceiros.
 
 .. _dissertacoes_TCC:
 
 Pesquisas em Dissertações e Trabalhos de Conclusão de Curso (TCC)
------------------------------------------------------------------
+*****************************************************************
 
 As pesquisas associadas ao projeto estão descritas na tabela a seguir com uma descrição sumarizada.
 
@@ -55,7 +55,7 @@ As pesquisas associadas ao projeto estão descritas na tabela a seguir com uma d
      - Análise dos termos adotados em campos não estruturados de Prontuários Médicos e sua correlação com a COVID-19.
 
 Pesquisas e Grupos de Trabalho em Áreas de Apoio a Plataforma
--------------------------------------------------------------
+*************************************************************
 
 As pesquisas associadas à implementação do piloto do projeto estão descritas na tabela a seguir, com uma descrição sumarizada.
 
@@ -85,12 +85,12 @@ As pesquisas associadas à implementação do piloto do projeto estão descritas
      - Estudo do Formulário da OMS destinado à COVID associado a análise das informações não estruturadas registradas na Anamnese (acolhimento do paciente) e nas evoluções (acompanhamento de internação). Em 2021, as reuniões realizadas com à equipe de saúde do HUGG permitiram o estabelecimento de premissas preliminares para a extração de informações a partir dos dados estruturados e não estruturados. Essas premissas estão sendo empregadas pela equipe do TCC referente ao ETL de transformação de dados de Prontuários eletrônicas e serão evoluídas de acordo com a necessidade do projeto.
 
 Projetos de Disciplinas da Graduação
-------------------------------------
+************************************
 
-#. Para Disciplina de Banco de Dados I
+#. **Para Disciplina de Banco de Dados I**
 	Trabalho de fim de curso. Para o desenvolvimento dos trabalhos, foram estabelecidas propostas de evoluções no esquema do banco de dados de apoio, elaboração de consultas SQL e desenvolvimento de aplicações WEB, implementando funcionalidades relevantes para o projeto como, por exemplo: Gestão de controle de acesso da base de dados de Apoio para Pesquisas Clínicas, Registro das informações de paciente em um módulo do questionário na base de dados de Apoio para Pesquisas Clínicas e Consultas e visualizações sobre os dados armazenados na base de dados de Apoio para Pesquisas Clínicas.
 
-#. Para Disciplina de Laboratório de Sistemas de Informação II
+#. **Para Disciplina de Laboratório de Sistemas de Informação II**
   	 Trabalho de fim de curso, visando:
    * a)	Preparar um ambiente no Dataverse com base nos metadados estabelecidos na especificação do FAIR DP, a fim de otimizar o processo de publicação dos dados e metadados do Projeto VODAN BR;
    * b)	Implementar uma solução que acesse o FAIR DP e o Dataverse, via API. A ferramenta deverá realizar pesquisas empregando os metadados disponibilizados no FAIR DP, e buscar, quando demandado, os dataset no repositório de forma mais amigável. Apesar de apresentar uma interface para humanos, o FAIR DP publica informações codificadas que podem dificultar o acesso do usuário. Por trabalhar com termos padronizados, uma aplicação seria capaz de buscar termos em outros artefatos semânticos, inclusive em outros idiomas, auxiliando o processo de busca.
