@@ -69,7 +69,7 @@ As pesquisas associadas à implementação do piloto do projeto estão descritas
      - Elaboração de workflow de FAIRificação para atender as especificidades do Projeto VODAN BR
    * - Piloto VODAN BR	
      - Implementação do Projeto Piloto para prova de conceito da Plataforma VODAN BR.
-   * - Estudo sobre a disponibilização de dados |br| anonimizados de pacientes do HUGG para a pesquisa
+   * - Estudo sobre a disponibilização de dados <br /> anonimizados de pacientes do HUGG para a pesquisa
      - Estudo sobre a estrutura a ser adotada para disponibilizar os dados anonimizados de pacientes COVID-19. 
    * - Evolução do Módulo de Gestão de Formulários e aprimoramento do módulo de Gestão de Usuários	
      - Evolução do módulo de gestão de formulários, compatibilizando com as mudanças decorrentes do módulo de gestão de pesquisas.
