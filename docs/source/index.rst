@@ -19,7 +19,7 @@ Conteúdo
 --------
 
 .. toctree::
-   :caption: Conteúdo
+   
    
    PlataformaVODANBR
    PilotoVODANBR
