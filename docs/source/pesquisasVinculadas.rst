@@ -5,12 +5,12 @@ Para a implementação da plataforma VODAN BR, diferentes frentes de pesquisas f
 
 .. _dissertacoes_TCC:
 
-Pesquisas em Dissertações e Trabalhos de Conclusão de Curso (TCC)
-*****************************************************************
+Pesquisas em Dissertações
+*************************
 
 As pesquisas associadas ao projeto estão descritas na tabela a seguir com uma descrição sumarizada.
 
-.. list-table:: Dissertações e TCC associados ao Projeto VODAN BR
+.. list-table:: Dissertações associados ao Projeto VODAN BR
    :widths: 25 25 50
    :header-rows: 1
 
@@ -32,6 +32,20 @@ As pesquisas associadas ao projeto estão descritas na tabela a seguir com uma d
    * - Dissertação
      - Compartilhamento de dados de pesquisa no contexto da COVID-19
      - Análise sobre os requisitos dos financiadores de pesquisa em COVID-19 e as práticas e percepções dos pesquisadores quanto ao compartilhamento de dados de pesquisa em COVID-19.
+
+     
+Pesquisas em Trabalhos de Conclusão de Curso (TCC)
+**************************************************
+
+As pesquisas associadas ao projeto estão descritas na tabela a seguir com uma descrição sumarizada.
+
+.. list-table:: TCC associados ao Projeto VODAN BR
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Tipo
+     - Projeto
+     - Descrição
    * - TCC
      - ETL de Dados Clínicos (HUGG)
      - Extração, transformação e limpeza de dados clínicos estruturados e não estruturados para carga em uma Base de Dados Relacional.
