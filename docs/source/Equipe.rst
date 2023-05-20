@@ -1,9 +1,6 @@
 Equipe
 ++++++
 
-Equipe VODANBR
-.. _Ciencia_da_Computacao:
-
 Ciência da Computação
 *********************
 
