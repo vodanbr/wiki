@@ -36,7 +36,7 @@ Festivais, Seminários e Conferências
      - 12 a 16 abril de 2021
      - Apresentação: A GESTÃO DE DADOS NO ENFRENTAMENTO DE PANDEMIAS: a experiência Virus Outbreak Data Network
    * - FAIR Festival 2021
-     - 21 a 23 de Junho
+     - 21 a 23 de Junho 2021
      - Apresentação: Learning to be FAIR during the COVID-19 pandemic: The VODAN BR Project 
    * - SBI AGRO 2021
      - 10 a 12 de novembro de 2021
@@ -47,21 +47,30 @@ Festivais, Seminários e Conferências
    * - XLII Jornada Giulio Massarani de Iniciação Científica, Tecnológica, Artística e Cultural (JICTAC 2020 - Edição Especial) 
      - 22 a 26 de março de 2021
      - Rede VODAN BR de dados de pesquisa em COVID-19: transformação de dados e metadados para FAIR Data Points
-   * - Semana de Integração Acadêmica (SIAC 2021)
+   * - 11ª Semana de Integração Acadêmica (SIAC 2021)
      - 14 a 18 de Fevereiro de 2022
      - Estudo da Plataforma CEDAR para Geração Automatizada de Metadados
-   * - Semana de Integração Acadêmica (SIAC 2021)
+   * - 11ª Semana de Integração Acadêmica (SIAC 2021)
      - 14 a 18 de Fevereiro de 2022
      - CRF4FAIR – Aplicativo para Gestão de Pesquisas Clínicas para o VODAN BR
-   * - Semana de Integração Acadêmica (SIAC 2021)
+   * - 11ª Semana de Integração Acadêmica (SIAC 2021)
      - 14 a 18 de Fevereiro de 2022
      - VODAN BR e ETL4LOD: Enriquecimento Semântico de dados de pacientes COVID-19
    * - 24th International Conference on Enterprise Information Systems (ICEIS 2022)
      - 25 a 27 de abril de 2022
      - Apresentação de Artigo: A Platform to Generate FAIR Data for COVID-19 Clinical Research in Brazil
    * - Festival do Conhecimento UFRJ 2022
-     - 02 de Setembro
+     - 02 de Setembro 2022
      - Painel Temático: FAIR para Pesquisa em Dados Clínicos da Saúde - Uma aplicação VODAN BR
+   * - 12ª Semana de Integração Acadêmica (SIAC 2023)
+     - 29 de Maio a 02 de Junho de 2023
+     - Visualização de Dados Conectados: Aplicação em Dados de Pesquisas Clínicas do VODAN BR
+   * - 12ª Semana de Integração Acadêmica (SIAC 2023)
+     - 29 de Maio a 02 de Junho de 2023
+     - VODAN BR: Desafios no Tratamento e Descrição de Dados de Pesquisa no Contexto da COVID-19
+   * - XLV Jornada Giulio Massarani de Iniciação Científica, Tecnológica, Artística e Cultural (JICTAC 2020 - Edição Especial) 
+     - 08 a 12 de abril de 2024
+     - Desafios na Interoperabilidade de Dados Clínicos de Surtos Virais - Publicação de Metadados Semânticos no VODAN BR
 
 Tutoriais, Workshops e Apresentações Promovidos
 ***********************************************
