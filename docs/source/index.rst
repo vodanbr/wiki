@@ -25,6 +25,7 @@ Conteúdo
    PilotoVODANBR
    pesquisasVinculadas
    participacoesEmEventos
+   publicacoesAssociadas
    RelevantInformation
    Equipe
    
