@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Projeto VODAN BR'
-copyright = '2022, UFRJ-GRECO'
+copyright = '2024, UFRJ-GRECO'
 author = 'UFRJ-GRECO'
 
 release = '0.1'
