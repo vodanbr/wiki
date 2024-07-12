@@ -23,12 +23,12 @@ Ciência da Computação
    * - Annatercia Gomes Pinheiro
    * - Fabiane Monteiro Carvalho
    * - Maria Inês Bosca
-   * - Henrique Fernandes Rodrigues
+   * - Henrique Fernandes Rodrigues (1)
    * - Nickolas G. Pinto
    * - Mauricio Borges Pereira Jr.
    * - Rodrigo da Costa Passos
    * - Rodrigo Ferreira de Araujo
-   * - Mayara Morais Santos
+   * - Mayara Morais Santos (1)
    * - Marcus Vinicius Rodrigues
    * - Ademário Santana
    * - João Victor Freire
@@ -42,7 +42,7 @@ Ciência da Computação
    * - Gustavo Silva Araujo
    * - Isabel Cristine Costa Garcia
    * - Nathan Andrade dos Santos Lobo
-   * - Rafael Fernandes
+   * - Rafael Fernandes (1)
 
 
 Ciência da Informação
@@ -110,3 +110,5 @@ Hospital Municipal São José (Duque de Caxias)
    * - Dr. Antônio
    * - Dr. Luiz
    * - Carlos (TI)
+
+(1) Bolsistas UNIRIO - PROPGPI/DIT 2020 - Projeto "Gestão de Dados para o Enfrentamento da Pandemia da COVID-19: A participação da UNIRIO na Rede VODAN BR".
