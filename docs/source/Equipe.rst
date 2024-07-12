@@ -1,10 +1,10 @@
-Equipe
-++++++
+Participantes por Equipe do Projeto VODAN BR
++++++++++++++++++++++++++++++++++++++++++++++
 
 Ciência da Computação
 *********************
 
-.. list-table:: Equipe da Ciência da Computação do Projeto VODAN BR
+.. list-table:: Equipe da Ciência da Computação
    :widths: 50
    :header-rows: 1
 
@@ -48,7 +48,7 @@ Ciência da Computação
 Ciência da Informação
 *********************
 
-.. list-table:: Equipe da Ciência da Informação do Projeto VODAN BR
+.. list-table:: Equipe da Ciência da Informação
    :widths: 50
    :header-rows: 1
 
@@ -61,10 +61,21 @@ Ciência da Informação
    * - Isabella Lima
    * - Joice Soltosky Cunha
 
+UNIRIO
+******
+
+.. list-table:: Equipe da UNIRIO
+   :widths: 50
+   :header-rows: 1
+
+   * - Nome
+   * - Dra. Terese Tonini
+   * - Dra. Patrícia Correa Henning
+
 HUGG
 ****
 
-.. list-table:: Equipe do Hospital Gaffreé e Guinle no Projeto VODAN BR
+.. list-table:: Equipe do Hospital Gaffreé e Guinle
    :widths: 50
    :header-rows: 1
 
@@ -80,7 +91,7 @@ HUGG
 Hospital Israelita Albert Einstein
 **********************************
 
-.. list-table:: Equipe do Hospital Israelita Albert Einstein no Projeto VODAN BR
+.. list-table:: Equipe do Hospital Israelita Albert Einstein
    :widths: 50
    :header-rows: 1
 
@@ -91,7 +102,7 @@ Hospital Israelita Albert Einstein
 Hospital Municipal São José (Duque de Caxias)
 *********************************************
 
-.. list-table:: Equipe do Hospital Municipal São José (Duque de Caxias) no Projeto VODAN BR
+.. list-table:: Equipe do Hospital Municipal São José (Duque de Caxias)
    :widths: 50
    :header-rows: 1
 
