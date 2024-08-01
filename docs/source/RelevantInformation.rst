@@ -11,6 +11,7 @@ Links úteis
 a) Canal do yotube: https://www.youtube.com/playlist?list=PLtWIiPInzSw8lZvSMa7P0ByLyHRr2vzbk
 b) Site: https://vodanbr.github.io/
 c) X: https://x.com/vodanbr
+d) GitHub: https://github.com/oms-vodan
 
 **GO FAIR - VODAN Africa e Ásia**
 
