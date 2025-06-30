@@ -52,4 +52,7 @@ Seguem publicações em eventos nacionais e internacionais relacionadas ao VODAN
    * - 2024
      - Desafios na Interoperabilidade de Dados Clínicos de Surtos Virais - Publicação de Metadados Semânticos no VODAN BR (ePoster)			 
      - Lopes, Daniel N. F.; Andrade, Nathan; Campos, Maria Luiza M.; Borges, Vania. Instituto de Computação, Centro de Ciências da Matemática e da Terra, UFRJ.
+ * - 2025
+     - VODAN BR: Integração de Plataformas Heterogêneas de Dados Via FAIR Data Point (Apresentação de Pesquisa - 14ª SIAC)			 
+     - Salomão, Ian M.; Freire, Gabriel Martins; Campos, Maria Luiza M.; Borges, Vania; Rodrigues, Henrique F. Instituto de Computação, Centro de Ciências da Matemática e da Terra, UFRJ.
 
